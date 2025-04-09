@@ -6,7 +6,7 @@ Below are the Kubernetes YAMLs and test outputs used in this project along with 
 
 ## 1. Namespace
 
-![Namespace](./artifacts/1-namespace.PNG)
+![Namespace](1-namespace.PNG)
 
 ---
 
