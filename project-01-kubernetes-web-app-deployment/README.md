@@ -36,5 +36,3 @@ This project demonstrates how to deploy a simple web application on Kubernetes u
 4. The `Ingress` routes external traffic to the app service.
 5. Port-forwarding and curl tests validate the successful deployment internally.
 
-This project is a foundational example of building and exposing an app securely and efficiently using Kubernetes.
-
