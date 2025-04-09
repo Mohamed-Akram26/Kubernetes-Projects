@@ -12,13 +12,13 @@ Below are the Kubernetes YAMLs and test outputs used in this project along with 
 
 ## 2. ConfigMap
 
-![ConfigMap](./artifacts/2-configmap.PNG)
+![ConfigMap](artifacts/2-configmap.PNG)
 
 ---
 
 ## 3. Secret
 
-![Secret](./artifacts/3-secret.PNG)
+![Secret](artifacts/3-secret.PNG)
 
 ---
 
