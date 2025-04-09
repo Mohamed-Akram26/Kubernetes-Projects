@@ -1,3 +1,5 @@
+# Please refer to Artifacts.md for Real-Time screenshots and verification steps.
+
 # Simple Kubernetes Web App Deployment
 
 This project demonstrates how to deploy a simple web application on Kubernetes using core Kubernetes components like Namespace, ConfigMap, Secret, Deployment, and Ingress. It helps showcase how these YAML files work together in a real-world app deployment scenario.
