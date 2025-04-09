@@ -3,6 +3,7 @@
 Below are the Kubernetes YAMLs and test outputs used in this project along with visual evidence of their creation and behavior.
 
 ---
+![1-namespace](https://github.com/user-attachments/assets/c86e2567-7e7a-4658-a5cb-bef128047acb)
 
 ## 1. Namespace
 
